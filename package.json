@@ -30,6 +30,7 @@
     "imagemin-optipng": "^5.2.1",
     "imagemin-pngquant": "^8.0.0",
     "imagemin-svgo": "^5.2.4",
+    "include-media": "^1.4.10",
     "mini-css-extract-plugin": "^1.6.0",
     "postcss-loader": "^5.2.0",
     "sass": "^1.32.12",
