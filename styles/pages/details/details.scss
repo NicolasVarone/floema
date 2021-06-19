@@ -3,7 +3,7 @@
   @extend %center;
 
   background: $color-quicksand;
-  color: $color-white;
+  color: $color-quarter-spanish-white;
 }
 
 .detail__wrapper {
@@ -92,6 +92,7 @@
   @extend %description-16;
 
   max-width: 44rem;
+  letter-spacing: 0.03rem;
 }
 
 .detail__information__link {
